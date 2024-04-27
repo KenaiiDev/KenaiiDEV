@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2>Hi There! I'm Lucas Villanueva (But my friends call me Kenai) <img src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif" width="50"></h2>
+<img src="https://github.com/KenaiiDev/KenaiiDEV/assets/39120603/ba1fc23f-dd21-4cbb-a3ab-f5ef82113a92.png" align="right" width="200">
+<p><b>Fullstack Developer 💻</b></p>
 
-<!--
-**KenaiiDev/KenaiiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🌐 Portfolio](https://lucasvillanueva.me/)
 
-Here are some ideas to get you started:
+<h3>About me:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Kenaii = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "PHP", "JSP"],
+  tools: ["NextJS", "ReactJS", "Express", "Prisma", "Vitest"],
+  database: ["MongoDB", "PosgreSQL", "MySQL"],
+}
+```
+
+> We do not have much connection, you and I. Still, this encounter feels special. I hope you won’t mind if I think of you as a friend.
