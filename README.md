@@ -2,7 +2,7 @@
 <img src="https://github.com/KenaiiDev/KenaiiDEV/assets/39120603/ba1fc23f-dd21-4cbb-a3ab-f5ef82113a92.png" align="right" width="200">
 <p><b>Fullstack Developer 💻</b></p>
 
-[🌐 Portfolio](https://lucasvillanueva.me/)
+[🌐 Portfolio](https://lucasvillanueva.tech/)
 
 <h3>About me:</h3>
 
