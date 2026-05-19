@@ -6,7 +6,7 @@
 
 I am a Fullstack Developer based in Buenos Aires, Argentina, passionate about solving complex problems and building scalable, robust web applications using React, Node.js, and TypeScript. Currently, I am pursuing a degree in Informatics Engineering at the University of Buenos Aires.
 
-[🌐 Portfolio](https://lucasvillanueva.tech/) | [LinkedIn](https://linkedin.com/in/lucasvillanueva1999/)
+[🌐 Portfolio](https://lucasvillanueva.com.ar/) | [LinkedIn](https://linkedin.com/in/lucasvillanueva1999/)
 
 ---
 
